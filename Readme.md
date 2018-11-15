@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomAppointmentForm.cs](./CS/SchedulerGettingStarted/CustomAppointmentForm.cs) (VB: [CustomAppointmentForm.vb](./VB/SchedulerGettingStarted/CustomAppointmentForm.vb))
+* [Form1.cs](./CS/SchedulerGettingStarted/Form1.cs) (VB: [Form1.vb](./VB/SchedulerGettingStarted/Form1.vb))
+<!-- default file list end -->
 # Getting Started with the Scheduler
 
 
