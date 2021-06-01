@@ -7,7 +7,7 @@
 # Getting Started with the Scheduler
 
 
-<p>This example is created by following instructions of the <a href="https://youtu.be/DIIzOfJucr0"><u>DevExpress WinForms: Getting started with the Scheduler</u></a> video.</p>
+<p>This example is created by following instructions of the <a href="https://www.youtube.com/watch?v=Ez51JApnDK4&t=7s&ab_channel=DevExpress"><u>DevExpress WinForms: Getting started with the Scheduler</u></a> video.</p>
 
 <br/>
 
